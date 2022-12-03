@@ -2,7 +2,7 @@
 
 - Passionate about music, reading, computer science and many more things!
 - BSc graduate at UNIPD in Computer Engineering
-  - Theis: Studio e applicazione di metoi metagenomici per la rilevazione del SARS-COV-2 (Fields: Metagenomics, Computer Science)
+  - Thesis: Studio e applicazione di metoi metagenomici per la rilevazione del SARS-COV-2 (Fields: Metagenomics, Computer Science)
 - Currently MSc at Polimi- Computer Science and Engineering
   - Current Projects:
     - TiedRivals: 2D puzzle/platformer made with Unity
